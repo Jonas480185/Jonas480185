@@ -35,7 +35,6 @@ Ein Ernährungstagebuch zum Erfassen von Mahlzeiten, Kalorien, Nährstoffen, Gew
 Aktuell beschäftige ich mich besonders mit:
 
 - KI-Agenten und agentischen Workflows
-- Automatisierung von Geschäftsprozessen
 - Web-Anwendungen und Software Engineering
 - Schnittstellen zwischen KI-Systemen und bestehenden Anwendungen
 - Produktentwicklung und digitalen Geschäftsmodellen
