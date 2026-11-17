@@ -20,7 +20,7 @@ In meiner privaten Instanz können KI-Assistenten über **MCP** auf freigegebene
 
 **Tech:** Next.js · TypeScript · PostgreSQL · Tailwind CSS · MCP
 
-[Live-Demo öffnen](https://semester-cockpit-demo.vercel.app/demo) · [Repository ansehen](https://github.com/Jonas480185/semester-cockpit)
+[Repository ansehen](https://github.com/Jonas480185/semester-cockpit)
 
 ### [Menta](https://github.com/Jonas480185/menta)
 
@@ -28,7 +28,7 @@ Ein Ernährungstagebuch zum Erfassen von Mahlzeiten, Kalorien, Nährstoffen, Gew
 
 **Tech:** Next.js · TypeScript · PostgreSQL · Drizzle ORM · Tailwind CSS
 
-[Live-Demo öffnen](https://menta-jonas.vercel.app) · [Repository ansehen](https://github.com/Jonas480185/menta)
+[Repository ansehen](https://github.com/Jonas480185/menta)
 
 ## Interessen
 
